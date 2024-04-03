@@ -1,0 +1,1 @@
+Creación de categoría "Educación".
