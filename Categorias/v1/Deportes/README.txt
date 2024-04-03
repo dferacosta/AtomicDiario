@@ -1,1 +1,1 @@
-Creación de la categoría "Noticias".
+Creación de la categoría "Educación".
